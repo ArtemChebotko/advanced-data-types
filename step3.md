@@ -42,6 +42,7 @@ Next, create table `movies` with partition key `id` of type `UUID` and insert th
 | 5069cc15-4300-4595-ae77-381c3af5dc5e |Alice in Wonderland| 2010 |   108    |
 | uuid()                               |Alice in Wonderland| 1951 |    75    |
 
+<br/>
 <details>
   <summary>Solution</summary>
 
